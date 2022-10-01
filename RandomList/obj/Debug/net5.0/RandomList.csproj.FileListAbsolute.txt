@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework8\RandomList\bin\Debug\net5.0\RandomList.exe
+D:\Документы\проекты VS\Homework8\RandomList\bin\Debug\net5.0\RandomList.deps.json
+D:\Документы\проекты VS\Homework8\RandomList\bin\Debug\net5.0\RandomList.runtimeconfig.json
+D:\Документы\проекты VS\Homework8\RandomList\bin\Debug\net5.0\RandomList.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework8\RandomList\bin\Debug\net5.0\RandomList.dll
+D:\Документы\проекты VS\Homework8\RandomList\bin\Debug\net5.0\RandomList.pdb
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.dll
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\ref\RandomList.dll
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.pdb
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\RandomList.genruntimeconfig.cache
+D:\Документы\проекты VS\Homework8\RandomList\obj\Debug\net5.0\refint\RandomList.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomList", "RandomList\RandomList.csproj", "{EF55E811-EC28-48E0-BF7C-D7AFFD4645D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{3711D62C-D681-47BF-A593-664C5BC060C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckRepeat", "CheckRepeat\CheckRepeat.csproj", "{D98E35D4-E10D-4F60-B6B9-FC6D1009CD03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF55E811-EC28-48E0-BF7C-D7AFFD4645D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF55E811-EC28-48E0-BF7C-D7AFFD4645D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF55E811-EC28-48E0-BF7C-D7AFFD4645D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF55E811-EC28-48E0-BF7C-D7AFFD4645D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3711D62C-D681-47BF-A593-664C5BC060C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3711D62C-D681-47BF-A593-664C5BC060C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3711D62C-D681-47BF-A593-664C5BC060C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3711D62C-D681-47BF-A593-664C5BC060C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D98E35D4-E10D-4F60-B6B9-FC6D1009CD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98E35D4-E10D-4F60-B6B9-FC6D1009CD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D98E35D4-E10D-4F60-B6B9-FC6D1009CD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D98E35D4-E10D-4F60-B6B9-FC6D1009CD03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

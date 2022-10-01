@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CheckRepeat/1.0.0": {
+        "runtime": {
+          "CheckRepeat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckRepeat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\CheckRepeat.exe
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\CheckRepeat.deps.json
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\CheckRepeat.runtimeconfig.json
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\CheckRepeat.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\CheckRepeat.dll
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\ref\CheckRepeat.dll
+D:\Документы\проекты VS\Homework8\CheckRepeat\bin\Debug\net5.0\CheckRepeat.pdb
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.dll
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\ref\CheckRepeat.dll
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.pdb
+D:\Документы\проекты VS\Homework8\CheckRepeat\obj\Debug\net5.0\CheckRepeat.genruntimeconfig.cache

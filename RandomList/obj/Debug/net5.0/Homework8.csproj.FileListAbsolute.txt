@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\Homework8.exe
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\Homework8.deps.json
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\Homework8.runtimeconfig.json
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\Homework8.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\Homework8.dll
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\ref\Homework8.dll
+D:\Документы\проекты VS\Homework8\Homework8\bin\Debug\net5.0\Homework8.pdb
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.dll
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\ref\Homework8.dll
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.pdb
+D:\Документы\проекты VS\Homework8\Homework8\obj\Debug\net5.0\Homework8.genruntimeconfig.cache

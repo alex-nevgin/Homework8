@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\PhoneBook.exe
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\PhoneBook.deps.json
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.json
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\PhoneBook.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\PhoneBook.dll
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\ref\PhoneBook.dll
+D:\Документы\проекты VS\Homework8\PhoneBook\bin\Debug\net5.0\PhoneBook.pdb
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.dll
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\ref\PhoneBook.dll
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.pdb
+D:\Документы\проекты VS\Homework8\PhoneBook\obj\Debug\net5.0\PhoneBook.genruntimeconfig.cache
