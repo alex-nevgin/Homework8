@@ -1,0 +1,16 @@
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\NoteBook.exe
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\NoteBook.deps.json
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\NoteBook.runtimeconfig.json
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\NoteBook.runtimeconfig.dev.json
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\NoteBook.dll
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\ref\NoteBook.dll
+D:\Документы\проекты VS\Homework8\NoteBook\bin\Debug\net5.0\NoteBook.pdb
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.csproj.AssemblyReference.cache
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.AssemblyInfoInputs.cache
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.AssemblyInfo.cs
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.csproj.CoreCompileInputs.cache
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.dll
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\ref\NoteBook.dll
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.pdb
+D:\Документы\проекты VS\Homework8\NoteBook\obj\Debug\net5.0\NoteBook.genruntimeconfig.cache

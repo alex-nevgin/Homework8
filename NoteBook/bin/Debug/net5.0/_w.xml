@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Worker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Alex Sohn</Name>
+  <Street>Bond St.</Street>
+  <House>56</House>
+  <Apt>23</Apt>
+  <FixNum>1236545</FixNum>
+  <CellNum>89076868</CellNum>
+</Worker>
